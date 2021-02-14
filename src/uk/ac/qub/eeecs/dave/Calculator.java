@@ -2,10 +2,14 @@ package uk.ac.qub.eeecs.dave;
 
 public class Calculator {
 	public int add(int a, int b) {
-		return a+b;
+		
+		
+		return b+a;
 	}
 	
 	public int sub(int a, int b) {
+		
+		
 		return a-b;
 	}
 	
